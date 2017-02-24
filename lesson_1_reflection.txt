@@ -12,3 +12,4 @@ We can find the reason why code failed to work by comparing the old version.
 2.每次commit改动之前要善于发现文件中存在的问题，避免多个问题混杂导致难以纠错。
 如何使用Git
 记录代码，可以方便纠错
+说的很对
